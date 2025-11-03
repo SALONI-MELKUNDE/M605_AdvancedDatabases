@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone_number,registration_date,country
+1,John,Doe,johndoe@example.com,1234567890,2024-02-10,USA
+2,Alice,Brown,aliceb@example.com,1111111111,2024-01-11,UK
+3,Bob,Smith,bobsmith@example.com,2222222222,2024-04-17,Canada
+4,Charlie,Davis,charlied@example.com,3333333333,2024-08-10,Australia
+5,David,Jones,davidjones@example.com,4444444444,2024-09-18,Germany

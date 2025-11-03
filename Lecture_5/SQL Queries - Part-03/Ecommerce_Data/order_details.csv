@@ -1,0 +1,6 @@
+order_detail_id,order_id,product_id,quantity,price_each
+1,1,1,1,1200.0
+2,2,2,2,800.0
+3,3,3,3,600.0
+4,4,4,1,50.0
+5,5,5,2,30.0
